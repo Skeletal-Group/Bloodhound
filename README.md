@@ -1,4 +1,4 @@
-![Logo](https://github.com/Skeletal-Group/Bloodhound/blob/main/Resource/Bloodhound.png)
+![Logo](https://github.com/Skeletal-Group/Bloodhound/blob/main/Resource/BloodhoundLogo.png)
 
 # Bloodhound
 UNDER CONSTRUCTION
